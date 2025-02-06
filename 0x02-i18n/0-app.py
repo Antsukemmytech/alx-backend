@@ -14,4 +14,3 @@ def index():
     hello world
     """
     return render_template('0-index.html')
-
